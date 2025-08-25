@@ -12,7 +12,7 @@
 ![WendelBezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=Wendel-Bezerra&show_icons=true&theme=gotham)
 ![WendelBezerra GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Wendel-Bezerra&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-bezerra=compact&langs_count=168&theme=gotham)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-bezerra&langs_count=168&theme=gotham)]()
 
 ## Technologies I use on a daily basis.
 
