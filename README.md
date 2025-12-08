@@ -2,7 +2,7 @@
 #### ~ Greetings! I'm Wendel Bezerra, a proud native of Salvador, Bahia, Brazil.
 #### ~ I'm fluent in both Portuguese and English.
 #### ~ My expertise lies in web application development using TypeScript and JavaScript, but I've also dabbled in Node.js And Java.
-#### ~ I embarked on my coding journey at the age of 17, and over the past 3 years, I've honed my skills.
+#### ~ I embarked on my coding journey at the age of 17, and over the past 4 years, I've honed my skills.
 #### ~ I'm now on the Catholic University from Salvador, specializing myself in Software engineer.
 #### ~ Welcome to my profile! I hope you find it enjoyable!
 
