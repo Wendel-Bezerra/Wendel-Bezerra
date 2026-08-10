@@ -1,29 +1,48 @@
 
-#### ~ Greetings! I'm Wendel Bezerra, a proud native of Salvador, Bahia, Brazil.
-#### ~ I'm fluent in both Portuguese and English.
-#### ~ My expertise lies in web application development using TypeScript and JavaScript, but I've also dabbled in Node.js And Java.
-#### ~ I embarked on my coding journey at the age of 17, and over the past 4 years, I've honed my skills.
-#### ~ I'm now on the Catholic University from Salvador, specializing myself in Software engineer.
-#### ~ Welcome to my profile! I hope you find it enjoyable!
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=99D1CE&center=true&vCenter=true&width=500&lines=Hi%2C  +I'm+Wendel+Bezerra!;Full-stack+Developer;TypeScript+%7C+React+%7C+Node.js;Converting+coffee+to+code+since+2021&v=2" alt="Typing SVG" />
+  </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0C1014?style=for-the-badge&logo=linkedin&logoColor=99D1CE)](https://www.linkedin.com/in/wendelcamposbezerra/) 
-[![GitHub](https://img.shields.io/badge/GitHub-0C1014?style=for-the-badge&logo=github&logoColor=99D1CE)](https://github.com/Wendel-Bezerra/Wendel-Bezerra))
+  ## 🚀 About Me
 
-![WendelBezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=Wendel-Bezerra&show_icons=true&theme=gotham)
-![WendelBezerra GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Wendel-Bezerra&theme=gotham)
+  - 🇧🇷 Born and raised in **Salvador, Bahia, Brazil** — fluent in Portuguese and English
+  - 💻 Full-stack web developer focused on **TypeScript/JavaScript**, with experience in **Node.js** and **Java**
+  - 🤖 I build **automations** and train **AI models** for chatbots and document search (RAG)
+  - 🎓 Software Engineering at the **Catholic University of Salvador (UCSal)**
+  - 🧑‍Coding since I was 17 — **5+ years** turning ideas into products
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Bezerra&langs_count=168&theme=gotham)]
+  <p>
+    <a href="https://www.linkedin.com/in/wendelcamposbezerra/"><img
+  src="https://img.shields.io/badge/LinkedIn-0C1014?style=for-the-badge&logo=linkedin&logoColor=99D1CE" alt="LinkedIn" /></a>
+    <a href="https://github.com/Wendel-Bezerra"><img src="https://img.shields.io/badge/GitHub-0C1014?style=for-the-badge&logo=github&logoColor=99D1CE"
+  alt="GitHub" /></a>
+  </p>
 
-## Technologies I use on a daily basis.
+  ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0C1014?style=for-the-badge&logo=javascript&logoColor=99D1CE)
-![HTML](https://img.shields.io/badge/HTML5-0C1014?style=for-the-badge&logo=html5&logoColor=99D1CE)
-![CSS](https://img.shields.io/badge/CSS3-0C1014?style=for-the-badge&logo=css3&logoColor=99D1CE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0C1014?style=for-the-badge&logo=typescript&logoColor=99D1CE)
-![NodeJS](https://img.shields.io/badge/Node.js-0C1014?style=for-the-badge&logo=npm&logoColor=99D1CE)
-![React](https://img.shields.io/badge/React-0C1014?style=for-the-badge&logo=react&logoColor=99D1CE)
-![Nest.js](https://img.shields.io/badge/Nest.js-0C1014?style=for-the-badge&logo=nestjs&logoColor=99D1CE)
-![Next.js](https://img.shields.io/badge/Next.js-0C1014?style=for-the-badge&logo=next.js&logoColor=99D1CE)
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-0C1014?style=for-the-badge&logo=typescript&logoColor=99D1CE" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-0C1014?style=for-the-badge&logo=javascript&logoColor=99D1CE" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-0C1014?style=for-the-badge&logo=react&logoColor=99D1CE" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-0C1014?style=for-the-badge&logo=next.js&logoColor=99D1CE" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-0C1014?style=for-the-badge&logo=node.js&logoColor=99D1CE" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Nest.js-0C1014?style=for-the-badge&logo=nestjs&logoColor=99D1CE" alt="Nest.js" />
+    <img src="https://img.shields.io/badge/Java-0C1014?style=for-the-badge&logo=openjdk&logoColor=99D1CE" alt="Java" />
+    <img src="https://img.shields.io/badge/HTML5-0C1014?style=for-the-badge&logo=html5&logoColor=99D1CE" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-0C1014?style=for-the-badge&logo=css3&logoColor=99D1CE" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Git-0C1014?style=for-the-badge&logo=git&logoColor=99D1CE" alt="Git" />
+  </p>
 
-#### Converting coffee to code since 2021.
+  ## 📊 Stats
 
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=Wendel-Bezerra&theme=gotham&hide_border=true" alt="Streak" />
+  </div>
+
+  <div align="center">
+
+  #### ☕ Converting coffee to code since 2021.
+
+  <img src="https://komarev.com/ghpvc/?username=Wendel-Bezerra&color=99D1CE&style=for-the-badge" alt="Profile views" />
+
+  </div>
