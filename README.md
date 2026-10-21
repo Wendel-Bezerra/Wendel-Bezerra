@@ -1,8 +1,4 @@
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=99D1CE&center=true&vCenter=true&width=500&lines=Hi%2C  +I'm+Wendel+Bezerra!;Full-stack+Developer;TypeScript+%7C+React+%7C+Node.js;Converting+coffee+to+code+since+2021&v=2" alt="Typing SVG" />
-  </div>
-
   ## 🚀 About Me
 
   - 🇧🇷 Born and raised in **Salvador, Bahia, Brazil** — fluent in Portuguese and English
@@ -41,8 +37,6 @@
 
   <div align="center">
 
-  #### ☕ Converting coffee to code since 2021.
-
-  <img src="https://komarev.com/ghpvc/?username=Wendel-Bezerra&color=99D1CE&style=for-the-badge" alt="Profile views" />
+  #### ☕ Converting coffee to code since 2023.
 
   </div>
